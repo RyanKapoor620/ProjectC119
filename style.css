@@ -1,0 +1,26 @@
+body{
+    background-color: greenyellow;
+    font-family: 'Lumanosimo', cursive;
+    font-size: 25px;
+}
+#score{
+    font-size:25px;
+    float: left;
+    margin-left: 20px;
+}
+#timer{
+    font-size:25px;
+    float: right;
+    margin-right: 100px;
+}
+h1{
+    color: darkblue;
+    background-color: white;
+}
+#guess_sketch{
+    color: red;
+
+}
+#show_sketch{
+float: right;
+}
